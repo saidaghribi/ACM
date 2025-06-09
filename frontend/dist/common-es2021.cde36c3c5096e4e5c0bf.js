@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkacm_web=self.webpackChunkacm_web||[]).push([[592],{5963:function(t,s,c){c.d(s,{u:function(){return n}});class n{}},3896:function(t,s,c){c.d(s,{t:function(){return n}});class n{constructor(){this.category="",this.subject="",this.assignement=""}}}}]);

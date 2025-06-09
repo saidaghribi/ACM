@@ -1,0 +1,164 @@
+{
+  "configVersion": 1,
+  "timestamp": 1747133185553,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/0-es2021.02de88c3be6511c92ccc.js",
+        "/0-es5.02de88c3be6511c92ccc.js",
+        "/137-es2021.0fdf1687b79d8d4bf2bb.js",
+        "/137-es5.0fdf1687b79d8d4bf2bb.js",
+        "/219-es2021.448eb709086710e13783.js",
+        "/219-es5.448eb709086710e13783.js",
+        "/226-es2021.a4bd912e1ae49d2dca03.js",
+        "/226-es5.a4bd912e1ae49d2dca03.js",
+        "/302-es2021.f330c647df408201bce6.js",
+        "/302-es5.f330c647df408201bce6.js",
+        "/346-es2021.6dbfb2fa04a110eb7e21.js",
+        "/346-es5.6dbfb2fa04a110eb7e21.js",
+        "/4-es2021.dd519efd4b181118f382.js",
+        "/4-es5.dd519efd4b181118f382.js",
+        "/401-es2021.8a14a73671f494eb2d82.js",
+        "/401-es5.8a14a73671f494eb2d82.js",
+        "/414-es2021.fe8705cb4b6e265d5123.js",
+        "/414-es5.fe8705cb4b6e265d5123.js",
+        "/432-es2021.02c630129e95a7d6cd31.js",
+        "/432-es5.02c630129e95a7d6cd31.js",
+        "/467-es2021.44107cadec45cffff006.js",
+        "/467-es5.44107cadec45cffff006.js",
+        "/482-es2021.cabf573a4e06078a4f57.js",
+        "/482-es5.cabf573a4e06078a4f57.js",
+        "/519-es2021.d1e8e0dc7a76a37e36ab.js",
+        "/519-es5.d1e8e0dc7a76a37e36ab.js",
+        "/520-es2021.b585d058d209544f021b.js",
+        "/520-es5.b585d058d209544f021b.js",
+        "/560-es2021.db48d65b3f397402b0c2.js",
+        "/560-es5.db48d65b3f397402b0c2.js",
+        "/569-es2021.902d0ec7606e7e85d73a.js",
+        "/569-es5.902d0ec7606e7e85d73a.js",
+        "/613-es2021.beecaa916d0438d4ef79.js",
+        "/613-es5.beecaa916d0438d4ef79.js",
+        "/622-es2021.a1a2083d0b6675854bf2.js",
+        "/622-es5.a1a2083d0b6675854bf2.js",
+        "/738-es2021.8c3c27351a87f6cb5c99.js",
+        "/738-es5.8c3c27351a87f6cb5c99.js",
+        "/967-es2021.108fb52faf89f15b3d2e.js",
+        "/967-es5.108fb52faf89f15b3d2e.js",
+        "/common-es2021.cde36c3c5096e4e5c0bf.js",
+        "/common-es5.cde36c3c5096e4e5c0bf.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2021.f7c1b7088018705caf79.js",
+        "/main-es5.f7c1b7088018705caf79.js",
+        "/polyfills-es2021.c72bfb7e235ccaa41a7b.js",
+        "/polyfills-es5.c8ec7fe661482841e90d.js",
+        "/runtime-es2021.1dcff56ca34ec2db3ffa.js",
+        "/runtime-es5.1dcff56ca34ec2db3ffa.js",
+        "/scripts.26fc494204e69a16f1c4.js",
+        "/styles.ccef78856783cf219a5b.css",
+        "/vendor-es2021.e368e9481666d131eb7b.js",
+        "/vendor-es5.e368e9481666d131eb7b.js"
+      ],
+      "patterns": [
+        "http:\\/\\/localhost:8080\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [
+    {
+      "name": "api",
+      "patterns": [
+        "http:\\/\\/localhost:8080\\/.*"
+      ],
+      "strategy": "freshness",
+      "maxSize": 100,
+      "maxAge": 259200000,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "version": 1
+    }
+  ],
+  "hashTable": {
+    "/0-es2021.02de88c3be6511c92ccc.js": "86604b4702d6d877dc9d142d2f020299dbc9daf9",
+    "/0-es5.02de88c3be6511c92ccc.js": "1b379ebceb016d11a27a2a356eb1d45598987bd5",
+    "/137-es2021.0fdf1687b79d8d4bf2bb.js": "1fe575267070f5961d04d805445dd229f112d943",
+    "/137-es5.0fdf1687b79d8d4bf2bb.js": "8aa1407038c733ab11f2b2fbe45e778676a96401",
+    "/219-es2021.448eb709086710e13783.js": "0b07e155f93dd0de6ad0f25d260315a20342cdfe",
+    "/219-es5.448eb709086710e13783.js": "10b1787f17b9919084a7b391a1303bc3274d828d",
+    "/226-es2021.a4bd912e1ae49d2dca03.js": "c85ae008dc3e1569865fabe76ef742c486c2fef3",
+    "/226-es5.a4bd912e1ae49d2dca03.js": "f7177bc0f6a9cc015ab5edf559e8bd3be578a027",
+    "/302-es2021.f330c647df408201bce6.js": "02a11ca1fdede8b753e636f936873c7f4482407d",
+    "/302-es5.f330c647df408201bce6.js": "2bd9ef922c8da8d631ffaae4b3a16402f0ba75d9",
+    "/346-es2021.6dbfb2fa04a110eb7e21.js": "94c4bde913a94ab0843f9f201b4aa2cdf049e454",
+    "/346-es5.6dbfb2fa04a110eb7e21.js": "73e8f8ad482317c6b550151c4a7492a9efe3ecb9",
+    "/4-es2021.dd519efd4b181118f382.js": "7d6c7df0e3baf124d81fca2cbaec91e454e21437",
+    "/4-es5.dd519efd4b181118f382.js": "22b96b1d1cf75d5f575f3f14923af7abae28ed5d",
+    "/401-es2021.8a14a73671f494eb2d82.js": "9815e99aa5f80fbd2eca9630f1a05bcd613b8e04",
+    "/401-es5.8a14a73671f494eb2d82.js": "ab961c1a0a2655adf92adb9a02236c83bf838fb0",
+    "/414-es2021.fe8705cb4b6e265d5123.js": "68373f434fe1e2758cce86c5f625fa68ceef14e2",
+    "/414-es5.fe8705cb4b6e265d5123.js": "b8d9f4cd34c9b4f2871d600ecae99178499395c6",
+    "/432-es2021.02c630129e95a7d6cd31.js": "8a306200bb4cde4f326e157a2306aaa0a7db6cc1",
+    "/432-es5.02c630129e95a7d6cd31.js": "c6139185dbc4f2adf9bc63383f1216f3d63b1b4c",
+    "/467-es2021.44107cadec45cffff006.js": "7affaad54061b51df3e1d75d607fee2b13235441",
+    "/467-es5.44107cadec45cffff006.js": "6380793c5f69007c16a2b1115a786f2ab128c0ea",
+    "/482-es2021.cabf573a4e06078a4f57.js": "1560fc0b3f9d0bdeffa075fa6f98e629b09c5577",
+    "/482-es5.cabf573a4e06078a4f57.js": "bd3b476ffb0f2eb911e3cda17bcd5b9f1c2c0507",
+    "/519-es2021.d1e8e0dc7a76a37e36ab.js": "2a72cbe8d377f266f4c5f3e7767343066a44329e",
+    "/519-es5.d1e8e0dc7a76a37e36ab.js": "c94d3a3b732b1af5cbc9bcc9faa1979a302ef41f",
+    "/520-es2021.b585d058d209544f021b.js": "a0c0a7195c7faa7fab0f3d3dbfd6105954e1f096",
+    "/520-es5.b585d058d209544f021b.js": "912c2e53f2d0cec8417f30ef418e65d005b7e1d9",
+    "/560-es2021.db48d65b3f397402b0c2.js": "7e6a457c7f15e223947c193cc9129adf60700371",
+    "/560-es5.db48d65b3f397402b0c2.js": "fa22ada8c77ab979cac9eab7a9835db5364fc301",
+    "/569-es2021.902d0ec7606e7e85d73a.js": "c50b1ff9e6f9bdffef7764edca35d70029fa4c5d",
+    "/569-es5.902d0ec7606e7e85d73a.js": "aaaff2c26163a7f0e8a52327d30a275e7174064a",
+    "/613-es2021.beecaa916d0438d4ef79.js": "fd3068824c91e87ecdf26721b1c635e579559a50",
+    "/613-es5.beecaa916d0438d4ef79.js": "eb3dd55981f86b231f896178fcef934aff9eddca",
+    "/622-es2021.a1a2083d0b6675854bf2.js": "d23b3962a1971c9c9b0d31871e4891d8e3484b03",
+    "/622-es5.a1a2083d0b6675854bf2.js": "0be15b207490619d434ebff59b52b94b24eb3e24",
+    "/738-es2021.8c3c27351a87f6cb5c99.js": "312a87544927e83435685b7574f789aacab2ace2",
+    "/738-es5.8c3c27351a87f6cb5c99.js": "bfd51333b89b766d78b534b912b1fc8ab26514ff",
+    "/967-es2021.108fb52faf89f15b3d2e.js": "0f40b5ecc2df93e2a00f9947646dfc1713b99b9a",
+    "/967-es5.108fb52faf89f15b3d2e.js": "26ac789ca96f0b49b117a3d6bf7294bcd4284ed2",
+    "/common-es2021.cde36c3c5096e4e5c0bf.js": "b676f4651c78eeb7674294bb403a33c728d6533f",
+    "/common-es5.cde36c3c5096e4e5c0bf.js": "19c4c02f6057cdb86cb2db75bc540ebd3a40962f",
+    "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "/index.html": "669ef2b7e58317f214e8f7894f25da76cd5fbbca",
+    "/main-es2021.f7c1b7088018705caf79.js": "e262f05baea42bad519e350e4a62f8dfc2bd94b4",
+    "/main-es5.f7c1b7088018705caf79.js": "f2b66becf22cbe839f1ae64b582baee86ff7a944",
+    "/polyfills-es2021.c72bfb7e235ccaa41a7b.js": "590e4672650326b54c809d73d8cf3867fb11b317",
+    "/polyfills-es5.c8ec7fe661482841e90d.js": "0daf9b82f3ca6b108e8c96a1a0f7e3b6350f70dc",
+    "/runtime-es2021.1dcff56ca34ec2db3ffa.js": "26c11e1a853936b11f163945e30004e8c9d9a1c8",
+    "/runtime-es5.1dcff56ca34ec2db3ffa.js": "7f4d7cd25ac63c36fad1f941438fbece3beef783",
+    "/scripts.26fc494204e69a16f1c4.js": "ad7a2f4f759a20194a76aea8f6940f4d9451f2a3",
+    "/styles.ccef78856783cf219a5b.css": "f924f5803372b1d4f7ed3d660f4ae133a59f0755",
+    "/vendor-es2021.e368e9481666d131eb7b.js": "0d9168cff1de016614c3462402c6e210f383c983",
+    "/vendor-es5.e368e9481666d131eb7b.js": "643e2a59c8a77b670274b0f79805558e476352ef"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
