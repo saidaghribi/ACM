@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "application",
+      "type": "com.acm.config.ApplicationProperties",
+      "sourceType": "com.acm.config.ApplicationProperties"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
